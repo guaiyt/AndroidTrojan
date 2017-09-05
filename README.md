@@ -1,2 +1,2 @@
 # AndroidTrojan
-A Trojan to get data from target
+This is a project of a Trojan in Android.
