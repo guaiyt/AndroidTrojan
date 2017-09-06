@@ -19,3 +19,5 @@ guaiyt、Qin、Alioth007、lasestrellas0、androidbigold
 所发送图片的内容
 读取A中的何种数据
 微信账户
+
+
