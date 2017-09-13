@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTrojan</string>
+    <string name="accessibility_description">autoreply_service</string>
 </resources>

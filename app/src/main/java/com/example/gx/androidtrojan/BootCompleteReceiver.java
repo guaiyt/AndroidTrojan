@@ -29,6 +29,8 @@ class StartUpThread extends Thread{
         Intent bootintent = new Intent(context, MainActivity.class);
         bootintent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         context.startActivity(bootintent);//开始主活动
+//        Intent serverintent=new Intent(context,AutoReplyService.class);
+//        context.startService(serverintent);
     }
 
 }
